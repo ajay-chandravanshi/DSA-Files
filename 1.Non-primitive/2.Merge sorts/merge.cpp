@@ -8,6 +8,9 @@ void merges(int A[],int low,int mid,int high)
     k=low;
     while(i<=mid && j<=high)
 {
-    
+    if(A[i]<A[j])
+    {
+        
+    }
 }
 }
